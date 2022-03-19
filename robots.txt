@@ -16,5 +16,4 @@ Disallow: /classes/Knight.php
 User-Agent: *
 Disallow: /classes/Horse.php
 
-User-Agent: *
-Disallow: /classes/Pawn.php
+
